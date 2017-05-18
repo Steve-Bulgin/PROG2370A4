@@ -1,0 +1,2 @@
+D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4Content\obj\x86\Release\SBAssignment4Content.contentprojResolveAssemblyReference.cache
+E:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4Content\obj\x86\Release\SBAssignment4Content.contentprojResolveAssemblyReference.cache

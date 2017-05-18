@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\BatLeft.png</Source>
+      <Name>images\BatLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\images\BatLeft.xnb</Output>
+      <Time>2014-11-08T12:57:42-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\BatRight.png</Source>
+      <Name>images\BatRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\images\BatRight.xnb</Output>
+      <Time>2014-11-08T13:46:40-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Ball.png</Source>
+      <Name>images\Ball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\images\Ball.xnb</Output>
+      <Time>2014-11-08T17:50:08-05:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Scorebar.png</Source>
+      <Name>images\Scorebar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\images\Scorebar.xnb</Output>
+      <Time>2014-11-08T20:10:36-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\click.wav</Source>
+      <Name>sounds\click</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\sounds\click.xnb</Output>
+      <Time>2014-11-08T20:52:56-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\ding.wav</Source>
+      <Name>sounds\ding</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\sounds\ding.xnb</Output>
+      <Time>2014-11-08T21:06:00-05:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\applause1.wav</Source>
+      <Name>sounds\applause1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\sounds\applause1.xnb</Output>
+      <Time>2014-11-10T03:50:02-05:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\SpriteFont1.spritefont</Source>
+      <Name>fonts\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\fonts\SpriteFont1.xnb</Output>
+      <Time>2014-11-10T03:49:02-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{41493746-BEB3-4047-8879-C150D16D7140}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4Content\</RootDirectory>
+      <LoggerRootDirectory>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\PROG2370 Object Oriented Games\A4\SBAssignment4\SBAssignment4\SBAssignment4\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-28T11:11:49.1969454-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
